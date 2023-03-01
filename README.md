@@ -2,4 +2,4 @@
 
 
 # 
-![dad jokes](https://github.com/yehnda/Python-django-todo-list/todo/todo.png)
+![todo_list](https://github.com/yehnda/Python-django-todo-list/todo/todo.png)
